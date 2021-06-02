@@ -1,1 +1,1 @@
-# Simple_neural_network
+Here I have built simplest neural network which is easy to understand
